@@ -23,3 +23,5 @@ importantInfo = "stuff";
 System.out.println(importantInfo);
 ```
 woohoo i be changin stuff
+
+[Lab Report 1](lab-report-1-week-2.html)
