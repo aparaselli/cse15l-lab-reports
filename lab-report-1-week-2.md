@@ -153,6 +153,7 @@ We can easily upload local changes and run them on the server by doing the follo
 When you do this you should get an output that reflects the changes:
 ![Image](labwriteup9.png)
 
+Using these commands requires 96 key strokes if you didn't copy and paste your username, and 53 if you did copy and paste your username. This method saves time because it allows us to (1) not have to type our password multiple times and (2) not have to click return an extra 2 times for the compile and run commands. Additionally you don't need to log out of the server since the command in 3 will only log you in for the commands you list.
 
 
 
