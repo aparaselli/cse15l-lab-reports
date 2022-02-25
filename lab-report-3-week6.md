@@ -25,7 +25,7 @@ An alias is assentially a keyword that you can type which will autimatically go 
 ## Showing scp copying a file using alias
 
 Once again my alias is "ieng6"
-
+i
 ![Image](scp.png)
 
 By streamlining the ssh process through using the alias and keys, I am able to login to the UCSD servers without having to type/lookup my username every single time
