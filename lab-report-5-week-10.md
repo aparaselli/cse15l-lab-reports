@@ -3,16 +3,16 @@
 By using diff results.txt ../markdown-parsePolitz/results.txt I was able
 to get a breakdown of how the two files differed. In this breakdown I saw that the
 outputs for 530.md were different. 
-![Image](bug1file.png)
+![Image](bug1File.png)
 
 The output that my mdparse gave was 
 
-![Image](bug1outputour.png)
+![Image](bug1outputOur.png)
 
 
  but Politz's returned:
 
-![Image](bug1outputPolitz.png)
+![Image](bug1OutputPolitz.png)
  
   I believe that Politz has the correct output since a file name is distinctly different from a website link. 
 
